@@ -60,6 +60,14 @@
     background-color: #949c9f;
 }
 
+.avatar>img {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #949c9f;
+}
+
 .side-nav {
     grid-area: nav;
     height: 100vh;
